@@ -12,7 +12,7 @@
         <dependency>
             <groupId>org.infinispan</groupId>
             <artifactId>infinispan-client-hotrod</artifactId>
-            <version>7.0.0.hadoop-SNAPSHOT</version>
+            <version>7.1.0.hadoop-SNAPSHOT</version>
         </dependency>
 
         <dependency>
